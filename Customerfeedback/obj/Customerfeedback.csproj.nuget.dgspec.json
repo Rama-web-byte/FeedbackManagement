@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell Inspiron\\source\\repos\\Customerfeedback\\Customerfeedback.csproj": {}
+    "C:\\Users\\Dell Inspiron\\source\\GIT Local Repo\\FeedbackManagement\\Customerfeedback\\Customerfeedback.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell Inspiron\\source\\repos\\Customerfeedback\\Customerfeedback.csproj": {
+    "C:\\Users\\Dell Inspiron\\source\\GIT Local Repo\\FeedbackManagement\\Customerfeedback\\Customerfeedback.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell Inspiron\\source\\repos\\Customerfeedback\\Customerfeedback.csproj",
+        "projectUniqueName": "C:\\Users\\Dell Inspiron\\source\\GIT Local Repo\\FeedbackManagement\\Customerfeedback\\Customerfeedback.csproj",
         "projectName": "Customerfeedback",
-        "projectPath": "C:\\Users\\Dell Inspiron\\source\\repos\\Customerfeedback\\Customerfeedback.csproj",
+        "projectPath": "C:\\Users\\Dell Inspiron\\source\\GIT Local Repo\\FeedbackManagement\\Customerfeedback\\Customerfeedback.csproj",
         "packagesPath": "C:\\Users\\Dell Inspiron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell Inspiron\\source\\repos\\Customerfeedback\\obj\\",
+        "outputPath": "C:\\Users\\Dell Inspiron\\source\\GIT Local Repo\\FeedbackManagement\\Customerfeedback\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell Inspiron\\AppData\\Roaming\\NuGet\\NuGet.Config",
